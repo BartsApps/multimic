@@ -25,7 +25,7 @@ APP = "MultiMic"
 VERSION = "1.0.0"
 # Fill these in before you publish: the Support / About window shows a button for each one you set.
 DONATE_URL = "https://www.paypal.com/paypalme/MarcusImhoff"
-PROJECT_URL = ""         # e.g. "https://github.com/yourname/multimic"
+PROJECT_URL = "https://github.com/evonaauto-debug/multimic"         # e.g. "https://github.com/yourname/multimic"
 AUTHOR = "Bart'sApps"
 RATE = 48000
 CLIP = 0.985
