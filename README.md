@@ -13,6 +13,8 @@ open source. Windows 10 / 11.
 - Dark theme. Output copies in the sample rate / bit depth you pick (16, 24 or 32-bit float)
 - Ready to drag into Audacity
 
+![MultiMic window](MultiMic%20Screenshot.jpg)
+
 ## Download and install
 
 **Easiest:** download `MultiMic.exe` from the [Releases](../../releases) page and double-click it.
@@ -38,7 +40,7 @@ repository (Code, then Download ZIP), open a terminal in the folder and run:
 ## Support the project
 
 MultiMic is free. If it saved you time and you would like to say thanks, you can donate here:
-**[paypal.me/MarcusImhoff]**. Bug reports and ideas are welcome in the Issues tab. Support is best-effort.
+**[PayPal: paypal.me/MarcusImhoff](https://www.paypal.com/paypalme/MarcusImhoff)**, or use the **♥ Support / About** button inside the app. Bug reports and ideas are welcome in the Issues tab. Support is best-effort.
 
 ## Licence
 
@@ -62,7 +64,7 @@ Double-click **run_app.bat** (first time only, and again after an update: `py -m
    Check the levels: play at your loudest. The In bar should reach the shaded green zone and never
    touch the red end (CLIPPING! appears). Use the strip's vertical **Volume** slider, the same
    volume as in Windows Sound settings; it is locked while recording so a take stays consistent.
-   If a mic shows "volume: n/a", Windows won't let the app control it (use *Windows sound settings*).
+   If a mic shows "volume: n/a", Windows won't let the app control it (use *Sound settings*).
    The white peak-hold line, the *Peak* reading and the CLIPPING warning all follow the **Rec** meter,
    so they show what is actually recorded (*Reset peaks* clears them).
    **Any microphone works**, including Bluetooth headsets and other devices that don't support 48 kHz:
